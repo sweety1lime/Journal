@@ -1,0 +1,192 @@
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\laba10uwp.csprojAssemblyReference.cache
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\App.g.i.cs
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\App.g.cs
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\AdminPage.g.i.cs
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\AdminPage.g.cs
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\MainPage.g.cs
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\StudentPage.g.i.cs
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\StudentPage.g.cs
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\TeacherPage.g.i.cs
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\TeacherPage.g.cs
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\App.xaml
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\AdminPage.xaml
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\TeacherPage.xaml
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\MainPage.xaml
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\StudentPage.xaml
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\App.xbf
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\AdminPage.xbf
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\TeacherPage.xbf
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\MainPage.xbf
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\StudentPage.xbf
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\App.xbf
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\AdminPage.xbf
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\MainPage.xbf
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\StudentPage.xbf
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\TeacherPage.xbf
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\laba10uwp.xr.xml
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\laba10uwp.exe
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\laba10uwp.pdb
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\resources.pri
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\AppxManifest.xml
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\Core\laba10uwp.exe
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\laba10uwp.build.appxrecipe
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\System.Runtime.dll
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\laba10uwp.csproj.CopyComplete
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\laba10uwp.exe
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\laba10uwp.pdb
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\priconfig.xml
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\resources.resfiles
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\pri.resfiles
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\qualifiers.txt
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\bin\x86\Debug\InPage.xbf
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\InPage.g.i.cs
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\InPage.g.cs
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\InPage.xaml
+C:\Users\Софи\source\repos\laba10uwp\laba10uwp\obj\x86\Debug\InPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\App.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\AdminPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\InPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\MainPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\StudentPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\TeacherPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\laba10uwp.xr.xml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\laba10uwp.exe
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\laba10uwp.pdb
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\resources.pri
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\AppxManifest.xml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\Core\laba10uwp.exe
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\laba10uwp.build.appxrecipe
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\System.Runtime.dll
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\laba10uwp.csprojAssemblyReference.cache
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\App.g.i.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\App.g.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\AdminPage.g.i.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\AdminPage.g.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\InPage.g.i.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\InPage.g.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\MainPage.g.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\StudentPage.g.i.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\StudentPage.g.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\TeacherPage.g.i.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\TeacherPage.g.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\App.xaml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\AdminPage.xaml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\InPage.xaml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\MainPage.xaml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\StudentPage.xaml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\TeacherPage.xaml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\App.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\AdminPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\InPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\MainPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\StudentPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\TeacherPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\laba10uwp.csproj.CopyComplete
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\laba10uwp.exe
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\laba10uwp.pdb
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\priconfig.xml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\resources.resfiles
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\pri.resfiles
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\qualifiers.txt
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация\laba10uwp\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\laba10uwp.csprojAssemblyReference.cache
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\App.g.i.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\App.g.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\AdminPage.g.i.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\AdminPage.g.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\InPage.g.i.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\InPage.g.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\MainPage.g.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\StudentPage.g.i.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\StudentPage.g.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\TeacherPage.g.i.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\TeacherPage.g.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\App.xaml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\AdminPage.xaml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\StudentPage.xaml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\TeacherPage.xaml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\InPage.xaml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\MainPage.xaml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\App.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\AdminPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\StudentPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\TeacherPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\InPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\MainPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\laba10uwp.exe
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\laba10uwp.pdb
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\App.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\AdminPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\InPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\MainPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\StudentPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\TeacherPage.xbf
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\laba10uwp.xr.xml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\laba10uwp.exe
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\laba10uwp.pdb
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\resources.pri
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\AppxManifest.xml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\Core\laba10uwp.exe
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\laba10uwp.build.appxrecipe
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\System.Runtime.dll
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\laba10uwp.csproj.CopyComplete
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\priconfig.xml
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\resources.resfiles
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\pri.resfiles
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\qualifiers.txt
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Софи\source\repos\Практическая 18 - Шифрация — копия\laba10uwp\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885202160000000.json

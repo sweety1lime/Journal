@@ -1,0 +1,45 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="BrainDead.Group"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BrainDead"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"                     
+    xmlns:controls="using:Microsoft.UI.Xaml.Controls"
+    >
+
+    <Grid>
+        <controls:TabView x:ConnectionId='2'  x:Name="Pivo"  IsAddTabButtonVisible="False"                                         >
+            <controls:TabViewItem x:ConnectionId='10' Header="1 Курс" x:Name="Pivot_Kurs1" IsClosable="False">
+                <ListBox x:ConnectionId='17' x:Name="Kurs1" Background="{x:Null}" ></ListBox>
+            </controls:TabViewItem>
+            <controls:TabViewItem x:ConnectionId='11' Header="2 Курс" x:Name="Pivot_Kurs2" IsClosable="False">
+                <ListBox x:ConnectionId='16' x:Name="Kurs2" Background="{x:Null}" ></ListBox>
+            </controls:TabViewItem>
+            <controls:TabViewItem x:ConnectionId='12' Header="3 Курс" x:Name="Pivot_Kurs3" IsClosable="False">
+                <ListBox x:ConnectionId='15' x:Name="Kurs3" Background="{x:Null}" ></ListBox>
+            </controls:TabViewItem>
+            <controls:TabViewItem x:ConnectionId='13' Header="4 Курс" x:Name="Pivot_Kurs4" IsClosable="False">
+                <ListBox x:ConnectionId='14' x:Name="Kurs4" Background="{x:Null}" ></ListBox>
+            </controls:TabViewItem>
+        </controls:TabView>
+        <ComboBox x:ConnectionId='3' x:Name="group" Margin="975,6,10,0" PlaceholderText="Группы"                                           />
+
+        <Button HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10,10,10,10" ToolTipService.ToolTip="Взаимодействие с группами" Content="..." Width="auto" Height="auto" Background="{x:Null}" >
+
+            <Button.Flyout >
+                <MenuFlyout>
+                    <MenuFlyoutItem x:ConnectionId='4' Text="Удаление Группы" Name="Delate_Group"  ToolTipService.ToolTip="Нужно выбрать дисциплину"                           />
+                    <MenuFlyoutItem x:ConnectionId='5' Text="Добаваить Группу" Name="Add_Group"                         />
+                    <MenuFlyoutItem x:ConnectionId='6' Text="Добавление студента в группу" Name="Add_student"                          />
+                    <MenuFlyoutItem x:ConnectionId='7' Text="Удаление студента из группы" Name="Del_student" ToolTipService.ToolTip="Нужно выбрать студента"                          />
+                    <MenuFlyoutItem x:ConnectionId='8' Text="Изменение студента" Name="rename_student" ToolTipService.ToolTip="Нужно выбрать студента"                              />
+                    <MenuFlyoutItem x:ConnectionId='9' Text="Выгрузка студентов" Name="Export"                     />
+                </MenuFlyout>
+            </Button.Flyout>
+        </Button>
+
+    </Grid>
+</Page>
+

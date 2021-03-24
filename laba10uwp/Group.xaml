@@ -1,0 +1,44 @@
+﻿<Page
+    x:Class="BrainDead.Group"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BrainDead"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Loaded="Page_Loaded"
+    xmlns:controls="using:Microsoft.UI.Xaml.Controls"
+    >
+
+    <Grid>
+        <controls:TabView  x:Name="Pivo"  IsAddTabButtonVisible="False" SelectionChanged="Pivo_SelectionChanged">
+            <controls:TabViewItem Header="1 Курс" x:Name="Pivot_Kurs1" IsClosable="False">
+                <ListBox x:Name="Kurs1" Background="{x:Null}" ></ListBox>
+            </controls:TabViewItem>
+            <controls:TabViewItem Header="2 Курс" x:Name="Pivot_Kurs2" IsClosable="False">
+                <ListBox x:Name="Kurs2" Background="{x:Null}" ></ListBox>
+            </controls:TabViewItem>
+            <controls:TabViewItem Header="3 Курс" x:Name="Pivot_Kurs3" IsClosable="False">
+                <ListBox x:Name="Kurs3" Background="{x:Null}" ></ListBox>
+            </controls:TabViewItem>
+            <controls:TabViewItem Header="4 Курс" x:Name="Pivot_Kurs4" IsClosable="False">
+                <ListBox x:Name="Kurs4" Background="{x:Null}" ></ListBox>
+            </controls:TabViewItem>
+        </controls:TabView>
+        <ComboBox x:Name="group" Margin="975,6,10,0" PlaceholderText="Группы" SelectionChanged="group_SelectionChanged" />
+
+        <Button HorizontalAlignment="Right" VerticalAlignment="Top" Margin="10,10,10,10" ToolTipService.ToolTip="Взаимодействие с группами" Content="..." Width="auto" Height="auto" Background="{x:Null}" >
+
+            <Button.Flyout >
+                <MenuFlyout>
+                    <MenuFlyoutItem Text="Удаление Группы" Name="Delate_Group"  ToolTipService.ToolTip="Нужно выбрать дисциплину" Click="Delate_Group_Click"/>
+                    <MenuFlyoutItem Text="Добаваить Группу" Name="Add_Group" Click="Add_Group_Click" />
+                    <MenuFlyoutItem Text="Добавление студента в группу" Name="Add_student" Click="Add_student_Click"/>
+                    <MenuFlyoutItem Text="Удаление студента из группы" Name="Del_student" ToolTipService.ToolTip="Нужно выбрать студента" Click="Del_student_Click"/>
+                    <MenuFlyoutItem Text="Изменение студента" Name="rename_student" ToolTipService.ToolTip="Нужно выбрать студента" Click="rename_student_Click" />
+                    <MenuFlyoutItem Text="Выгрузка студентов" Name="Export" Click="Export_Click"/>
+                </MenuFlyout>
+            </Button.Flyout>
+        </Button>
+
+    </Grid>
+</Page>

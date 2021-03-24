@@ -1,0 +1,68 @@
+﻿<Page
+    x:Class="BrainDead.AdminPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:BrainDead"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" Loaded="Page_Loaded"
+    xmlns:controls="using:Microsoft.Toolkit.Uwp.UI.Controls">
+
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush x:Name="gridbg" Stretch="UniformToFill" ImageSource="Background/background.jpg"/>
+        </Grid.Background>
+        <Pivot x:Name="rootPivot" Title="Администратор">
+            <Pivot.RightHeader>
+                <Button Margin="0,0,5,0" Content="Back" Background="{x:Null}" Click="Cancel_click" ></Button>
+            </Pivot.RightHeader>
+            <PivotItem Header="Дисциплины">
+                <ListView Name="text" SelectionMode="Extended" SelectionChanged="text_SelectionChanged" >
+                    
+                    <ListView.Header>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                            
+                            <Button ToolTipService.ToolTip="Взаимодействие с дисциплинами" Content="..." Width="auto" Height="auto" Background="{x:Null}" >
+                                
+                                <Button.Flyout >
+                                    <MenuFlyout>
+                                        <MenuFlyoutItem Text="Удаление" Name="Delate" Click="Delate_Click" ToolTipService.ToolTip="Нужно выбрать дисциплину"/>
+                                        <MenuFlyoutItem Text="Добаваить цисциплину" Name="Add" Click="Add_Click"/>
+                                        <MenuFlyoutItem Text="Изменить название дисциплины" Name="Rename" Click="Rename_Click" ToolTipService.ToolTip="Нужно выбрать дисциплину"/>
+                                    </MenuFlyout>
+                                </Button.Flyout>
+                            </Button>
+                        </StackPanel>
+                    </ListView.Header>
+                    <ListView.Background>
+                        <SolidColorBrush Color="#FFF2F2F2" Opacity="0"/>
+                    </ListView.Background>
+
+                </ListView>
+            </PivotItem>
+            <PivotItem Header="Группы"  x:Name="Groups" Loaded="PivotItem_Tapped">
+                
+            </PivotItem>
+            <PivotItem Header="Користувач">
+                <StackPanel Orientation="Vertical"  >
+                    <StackPanel HorizontalAlignment="Right">
+                        <Button ToolTipService.ToolTip="Взаємодія з користувачем" Content="..." Width="auto" Height="auto" Background="{x:Null}" >
+
+                            <Button.Flyout >
+                                <MenuFlyout>
+                                    <MenuFlyoutItem Text="Видалення" Name="Delate_user" ToolTipService.ToolTip="Потрібно вибрати користувача" Click="Delate_user_Click"/>
+                                    <MenuFlyoutItem Text="Додавши Користувач" Name="Add_user" Click="Add_user_Click" />
+                                </MenuFlyout>
+                            </Button.Flyout>
+                        </Button>
+                    </StackPanel>
+                    <StackPanel x:Name="Test">
+                    <controls:DataGrid x:Name="DataGrid" GridLinesVisibility="All" AutoGenerateColumns="True" HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible" Background="{x:Null}" BeginningEdit="DataGrid_BeginningEdit" CellEditEnded="DataGrid_CellEditEnded" CanUserSortColumns="False" />
+                    </StackPanel>
+                </StackPanel>
+
+            </PivotItem>
+        </Pivot>
+    </Grid>
+</Page>
